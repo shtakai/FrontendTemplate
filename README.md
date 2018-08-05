@@ -1,6 +1,8 @@
 FrontendTemplate
 ================
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/FrontendTemplate.svg)](https://www.guardrails.io)
+
 Project template for frontend development:
 
 * ES6 (JavaScript) + eslint
